@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote fetch="git://github.com/" name="github" review="review.cyanogenmod.com"/>
-  <remote fetch="git://android.git.kernel.org/" name="korg" review="review.source.android.com"/>
   <remote fetch="git://github.com/tmobile" name="themes"/>
   
   <default remote="korg" revision="refs/tags/cm-7.0.0"/>
